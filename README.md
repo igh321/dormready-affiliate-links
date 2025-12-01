@@ -68,4 +68,4 @@ Each JSON file follows this structure:
 ## License
 
 These configurations are provided for use with the DormReady iOS app.
-Affiliate links support the continued development of DormReady.
+Affiliate links support the continued development of DormReady.  
