@@ -1,0 +1,100 @@
+{
+  "categoryId": "decor_storage",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "storage-bins": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BQKLVGWB",
+          "displayName": "Sterilite 66 Qt ClearView Latch Box 6-Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 52000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07DFGS9ZJ",
+          "displayName": "StorageRight Under Bed Storage Containers 2-Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 28000
+        }
+      ]
+    },
+    "command-strips": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B073WMZ3GG",
+          "displayName": "Command Large Picture Hanging Strips 18-Pairs",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 145000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0B5GFZ5TB",
+          "displayName": "Command Hooks Variety Pack 16-Hooks",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 65000
+        }
+      ]
+    },
+    "desk-organizer": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08GK7NHFJ",
+          "displayName": "SimpleHouseware Mesh Desk Organizer with Sliding Drawer",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 42000,
+          "badge": "best_seller"
+        }
+      ]
+    },
+    "posters-decor": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0C7TQBZ6Q",
+          "displayName": "HAUS AND HUES Aesthetic Room Decor Wall Art Set",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 18000,
+          "badge": "best_seller"
+        }
+      ]
+    },
+    "mirror": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07ZHV9VZW",
+          "displayName": "Neutype Full Length Door Mirror 48x14 Inches",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 35000,
+          "badge": "amazons_choice"
+        }
+      ]
+    }
+  }
+}

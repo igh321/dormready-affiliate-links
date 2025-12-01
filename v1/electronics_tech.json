@@ -1,0 +1,161 @@
+{
+  "categoryId": "electronics_tech",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "laptop-computer": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0CM5JV268",
+          "displayName": "Apple 2024 MacBook Air 13-inch Laptop with M3 Chip",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 85000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0D1XM5PS7",
+          "displayName": "HP 15 Laptop 15.6 FHD Intel Core i5 16GB RAM",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 25000
+        }
+      ]
+    },
+    "surge-protector": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0C4GQCRW8",
+          "displayName": "Amazon Basics 6-Outlet Surge Protector Power Strip 2-Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 165000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0B2P7FRM4",
+          "displayName": "Anker Power Strip Surge Protector with USB-C Ports",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 52000
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=surge+protector+power+strip+usb",
+          "displayName": "Surge Protectors at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.4,
+          "reviewCount": 5200
+        }
+      ]
+    },
+    "headphones": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BX2L97YK",
+          "displayName": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 28000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09JQZ6JF3",
+          "displayName": "Apple AirPods Pro (2nd Gen) with MagSafe Case",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.7,
+          "reviewCount": 125000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=noise+canceling+headphones",
+          "displayName": "Noise Canceling Headphones at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.5,
+          "reviewCount": 8500
+        }
+      ]
+    },
+    "phone-charger": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BW3GB7LF",
+          "displayName": "Anker USB C Charger 67W 3-Port Foldable",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 45000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08T1L1LPY",
+          "displayName": "Apple 20W USB-C Power Adapter",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.8,
+          "reviewCount": 185000
+        }
+      ]
+    },
+    "desk-lamp": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0B8KHBKDP",
+          "displayName": "BenQ e-Reading LED Desk Lamp with Auto-Dimming",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 18000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BTZP5T81",
+          "displayName": "LED Desk Lamp with USB Charging Port - 5 Brightness Levels",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 52000
+        }
+      ]
+    },
+    "printer": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BRGP5GXX",
+          "displayName": "HP DeskJet 4155e All-in-One Wireless Color Printer",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.2,
+          "reviewCount": 35000,
+          "badge": "amazons_choice"
+        }
+      ]
+    }
+  }
+}

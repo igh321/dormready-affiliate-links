@@ -1,0 +1,118 @@
+{
+  "categoryId": "kitchen_dining",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "microwave-dishes": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08PVPTDJY",
+          "displayName": "Corelle 12-Piece Dinnerware Set Service for 4",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 65000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BZXLF7QR",
+          "displayName": "Youngever 18-Piece Plastic Kitchen Dinnerware Set",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 18000
+        }
+      ]
+    },
+    "water-bottle": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08F3BFHJJ",
+          "displayName": "Hydro Flask 32 oz Wide Mouth Water Bottle",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 95000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09T5MGGWJ",
+          "displayName": "Stanley IceFlow Stainless Steel 30oz Tumbler",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 42000
+        }
+      ]
+    },
+    "coffee-maker": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BSCP7MJ8",
+          "displayName": "Keurig K-Mini Single Serve Coffee Maker",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 125000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09M6DM1J3",
+          "displayName": "Nespresso Vertuo Pop+ Coffee and Espresso Machine",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 28000
+        }
+      ]
+    },
+    "mini-fridge": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BQKL2BQB",
+          "displayName": "Frigidaire 3.2 Cu Ft Retro Compact Refrigerator",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.4,
+          "reviewCount": 35000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0C5TKLQZW",
+          "displayName": "BLACK+DECKER 3.2 Cu Ft Mini Fridge with Freezer",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.3,
+          "reviewCount": 18000
+        }
+      ]
+    },
+    "utensils": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07D4G4RH5",
+          "displayName": "LIANYU 20-Piece Stainless Steel Silverware Flatware Set",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 85000,
+          "badge": "amazons_choice"
+        }
+      ]
+    }
+  }
+}

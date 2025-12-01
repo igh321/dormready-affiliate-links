@@ -1,0 +1,91 @@
+{
+  "categoryId": "health_safety",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "first-aid-kit": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08NT1DMDS",
+          "displayName": "First Aid Only 299-Piece All-Purpose First Aid Kit",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 65000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B000069EYA",
+          "displayName": "Johnson & Johnson All-Purpose Compact First Aid Kit",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 52000
+        }
+      ]
+    },
+    "cleaning-supplies": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B083BLMC3Q",
+          "displayName": "Clorox Disinfecting Wipes 3-Pack 225 Count Total",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 185000,
+          "badge": "best_seller"
+        }
+      ]
+    },
+    "vitamins": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0B7RNZHF4",
+          "displayName": "Nature Made Multivitamin Complete 130 Tablets",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 95000,
+          "badge": "best_seller"
+        }
+      ]
+    },
+    "hand-sanitizer": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B086KB4Q6B",
+          "displayName": "Purell Advanced Hand Sanitizer Gel 8 oz 4-Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 125000,
+          "badge": "amazons_choice"
+        }
+      ]
+    },
+    "sleep-mask": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BRZPWK9V",
+          "displayName": "MZOO Sleep Eye Mask 3D Contoured Cup",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.4,
+          "reviewCount": 95000,
+          "badge": "best_seller"
+        }
+      ]
+    }
+  }
+}

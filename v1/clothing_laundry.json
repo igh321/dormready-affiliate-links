@@ -1,0 +1,136 @@
+{
+  "categoryId": "clothing_laundry",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "laundry-basket": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BXPXJZQZ",
+          "displayName": "HOMEST XL Laundry Bag Backpack with Shoulder Straps",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 28000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08GKJN6V3",
+          "displayName": "Simple Houseware Foldable Laundry Hamper Basket",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 32000
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=college+laundry+hamper+basket",
+          "displayName": "Laundry Hampers at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.2,
+          "reviewCount": 4500
+        }
+      ]
+    },
+    "hangers": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BQKL9F2L",
+          "displayName": "Amazon Basics Slim Velvet Non-Slip Hangers 50-Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 285000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07RZJ9QNP",
+          "displayName": "ZOBER Premium Velvet Hangers 50 Pack - Space Saving",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 95000
+        }
+      ]
+    },
+    "laundry-detergent": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B084FHTLH6",
+          "displayName": "Tide PODS Laundry Detergent Soap Pods 81 Count",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 145000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08JQFG6G2",
+          "displayName": "Arm & Hammer Plus OxiClean Power Paks 97 Count",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 52000
+        }
+      ]
+    },
+    "drying-rack": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BN3DYS3N",
+          "displayName": "Amazon Basics Foldable Laundry Drying Rack - White",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 68000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08MLQPL8M",
+          "displayName": "SONGMICS Clothes Drying Rack Foldable",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 25000
+        }
+      ]
+    },
+    "iron-steamer": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BQFNCB2B",
+          "displayName": "Conair Turbo ExtremeSteam Handheld Fabric Steamer",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.3,
+          "reviewCount": 42000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09NKLCHLQ",
+          "displayName": "Hilife Steamer for Clothes Handheld - 240ml",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.3,
+          "reviewCount": 85000
+        }
+      ]
+    }
+  }
+}

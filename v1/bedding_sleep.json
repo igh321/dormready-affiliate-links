@@ -1,0 +1,155 @@
+{
+  "categoryId": "bedding_sleep",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "twin-xl-sheets": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08P5FBK3S",
+          "displayName": "Mellanni Twin XL Sheet Set - 1800 Thread Count",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 485000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0CHXBZLNP",
+          "displayName": "CGK Unlimited Twin XL Sheet Set - Hotel Luxury",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 180000
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=twin+xl+sheet+set+college",
+          "displayName": "Twin XL Sheet Sets at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.3,
+          "reviewCount": 12000
+        }
+      ]
+    },
+    "comforter": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BZK1MK6D",
+          "displayName": "Bedsure Twin XL Comforter Set - All Season Reversible",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 125000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BHK9K1RP",
+          "displayName": "LINENSPA All-Season Down Alternative Quilted Comforter",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 340000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=twin+xl+comforter+college+dorm",
+          "displayName": "Twin XL Comforters at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.2,
+          "reviewCount": 8500
+        }
+      ]
+    },
+    "pillows": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BVLHJ7BK",
+          "displayName": "Beckham Hotel Collection Bed Pillows Queen Size Set of 2",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.4,
+          "reviewCount": 310000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0CGX3KH25",
+          "displayName": "Coop Home Goods Original Adjustable Loft Pillow",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 85000
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=bed+pillows+2+pack",
+          "displayName": "Bed Pillows at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.2,
+          "reviewCount": 5500
+        }
+      ]
+    },
+    "mattress-topper": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BHKNHQ1Z",
+          "displayName": "LINENSPA 3 Inch Gel Infused Memory Foam Twin XL Topper",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.4,
+          "reviewCount": 165000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BWVQGMYC",
+          "displayName": "Bedsure Twin XL Memory Foam Mattress Topper 3 Inch",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.3,
+          "reviewCount": 45000
+        }
+      ]
+    },
+    "throw-blanket": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BG9S77LT",
+          "displayName": "Bedsure Fleece Throw Blanket - Lightweight Super Soft",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 185000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BYZKH3YC",
+          "displayName": "L'AGRATY Chunky Knit Blanket Throw",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 42000
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "categoryId": "bath_personal_care",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "shower-caddy": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BF3LMVRQ",
+          "displayName": "Attmu Mesh Shower Caddy Basket for College Dorm",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 78000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08SBK9DTG",
+          "displayName": "Haundry Mesh Shower Caddy Tote with 8 Pockets",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 32000
+        }
+      ]
+    },
+    "bath-towels": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08D6R94M3",
+          "displayName": "Utopia Towels 4 Pack Cotton Bath Towels 27x54",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 125000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BKGQYQTK",
+          "displayName": "Amazon Basics Quick-Dry Bath Towels 4-Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 95000
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=bath+towel+set+4+pack",
+          "displayName": "Bath Towel Sets at Walmart",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.3,
+          "reviewCount": 6800
+        }
+      ]
+    },
+    "shower-shoes": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07D3ZDK38",
+          "displayName": "Adidas Unisex-Adult Adilette Shower Slide Sandal",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 145000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08CXQSXSC",
+          "displayName": "ONCAI Shower Shoes Quick Drying Non-Slip",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 28000
+        }
+      ]
+    },
+    "toiletry-bag": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07V4MKBYL",
+          "displayName": "BAGSMART Toiletry Bag Hanging Travel Makeup Organizer",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 52000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BWGXH9CL",
+          "displayName": "Narwey Hanging Travel Toiletry Bag for Women",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 18000
+        }
+      ]
+    },
+    "robe": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09JC77T81",
+          "displayName": "NY Threads Luxurious Fleece Bathrobe - Soft Plush",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 68000,
+          "badge": "best_seller"
+        }
+      ]
+    }
+  }
+}

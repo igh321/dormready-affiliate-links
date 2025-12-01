@@ -1,0 +1,97 @@
+{
+  "categoryId": "other_essentials",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "umbrella": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0756Y3XV2",
+          "displayName": "Repel Windproof Travel Umbrella with Teflon Coating",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 125000,
+          "badge": "amazons_choice"
+        }
+      ]
+    },
+    "winter-coat": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BQKM7YNH",
+          "displayName": "Columbia Men's Watertight II Rain Jacket",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 75000,
+          "badge": "best_seller"
+        }
+      ]
+    },
+    "boots": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B097CJGD9N",
+          "displayName": "Columbia Women's Ice Maiden II Snow Boot",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 42000,
+          "badge": "amazons_choice"
+        }
+      ]
+    },
+    "fan": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BQKLGQMJ",
+          "displayName": "Honeywell TurboForce Power Fan Quiet Operation",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 185000,
+          "badge": "best_seller"
+        }
+      ]
+    },
+    "bike-lock": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B06XCMWW9H",
+          "displayName": "Kryptonite Kryptolok Standard Bicycle U-Lock",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 28000,
+          "badge": "amazons_choice"
+        }
+      ]
+    },
+    "duct-tape": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B01M1DTDGZ",
+          "displayName": "Gorilla Heavy Duty Duct Tape Black 1.88 x 30 yards",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 95000,
+          "badge": "amazons_choice"
+        }
+      ]
+    }
+  }
+}

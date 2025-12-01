@@ -1,0 +1,127 @@
+{
+  "categoryId": "school_supplies",
+  "version": 3,
+  "lastUpdated": "2025-11-21",
+  "items": {
+    "backpack": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BG9K3T2J",
+          "displayName": "JanSport SuperBreak Plus Backpack - Durable",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 125000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09JG5HZML",
+          "displayName": "MATEIN Travel Laptop Backpack with USB Charging Port",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 95000
+        }
+      ]
+    },
+    "notebooks": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07GCN8P5W",
+          "displayName": "Five Star Spiral Notebooks 6-Pack College Ruled",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 75000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B07BKFVHFX",
+          "displayName": "Mead 5 Subject Notebook College Ruled 200 Sheets",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.7,
+          "reviewCount": 45000
+        }
+      ]
+    },
+    "pens-pencils": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B08SQRNKY7",
+          "displayName": "Paper Mate InkJoy Gel Pens Medium Point 14-Count",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 85000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BW3MFZGD",
+          "displayName": "BIC Round Stic Xtra Life Ballpoint Pens 60 Count",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.7,
+          "reviewCount": 125000
+        }
+      ]
+    },
+    "calculator": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B09JYHG7V4",
+          "displayName": "Texas Instruments TI-84 Plus CE Color Graphing Calculator",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.8,
+          "reviewCount": 65000,
+          "badge": "best_seller"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B00000JBNX",
+          "displayName": "Texas Instruments TI-30X IIS Scientific Calculator",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.7,
+          "reviewCount": 42000
+        }
+      ]
+    },
+    "planner": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0B86VKD7L",
+          "displayName": "bloom daily planners Academic Year Planner - Hardcover",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.7,
+          "reviewCount": 35000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dp/B0BZX5ZYHZ",
+          "displayName": "Simplified Academic Planner - Weekly Monthly View",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.6,
+          "reviewCount": 18000
+        }
+      ]
+    }
+  }
+}
