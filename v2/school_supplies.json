@@ -1,11 +1,24 @@
-{
-  "categoryId": "school_supplies",
-  "version": 3,
-  "lastUpdated": "2025-12-01",
-  "items": {
-    "backpack": {
-      "itemVersion": 1,
-      "links": [
+"school_supplies": {
+  "displayName": "School Supplies",
+  "icon": "backpack.fill",
+  "sortOrder": 4,
+  "items": [
+    {
+      "id": "backpack",
+      "name": "Backpack",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 55.0,
+        "CAD": 72.0,
+        "GBP": 44.0,
+        "EUR": 50.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["backpack", "book bag", "school bag", "rucksack"],
+      "tips": "Invest in quality with good back support and a dedicated laptop compartment.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/JanSport-SuperBreak-Backpack-15-inch-Integrated/dp/B083QSNNTW",
@@ -28,9 +41,22 @@
         }
       ]
     },
-    "notebooks": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "notebooks",
+      "name": "Notebooks",
+      "defaultQuantity": 5,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 22.0,
+        "CAD": 29.0,
+        "GBP": 18.0,
+        "EUR": 20.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["notebooks", "spiral notebooks", "composition books"],
+      "tips": "Get one per class plus extras. Color-coding by subject makes it easier to stay organized.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://us.amazon.com/Subject-Notebooks-Up-98-pages/s?c=ts&keywords=Subject+Notebooks&rh=n%3A490756011%2Cp_n_g-1003527791111%3A41942539011&ts_id=490756011",
@@ -52,9 +78,22 @@
         }
       ]
     },
-    "pens-pencils": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "pens-pencils",
+      "name": "Pens and Pencils",
+      "defaultQuantity": 20,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 18.0,
+        "CAD": 24.0,
+        "GBP": 14.0,
+        "EUR": 16.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["pens", "pencils", "writing utensils", "stationery"],
+      "tips": "Bring a mix: black/blue pens for class, a few fun colors for notes, plus mechanical pencils.",
+      "affiliateLinks": [
         {
           "retailer": "walmart",
           "url": "https://www.walmart.com/ip/Paper-Mate-InkJoy-Gel-Pens-Medium-Point-0-7mm-Assorted-Colors-Capped-14-Count/567672076",
@@ -76,9 +115,22 @@
         }
       ]
     },
-    "calculator": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "calculator",
+      "name": "Scientific Calculator",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": 120.0,
+        "CAD": 156.0,
+        "GBP": 96.0,
+        "EUR": 108.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["calculator", "scientific calculator", "graphing calculator"],
+      "tips": "Check your course or major requirements; some math and science classes require specific TI models.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Texas-Instruments-TI-84-Graphing-Calculator/dp/B01K5LC434",
@@ -100,9 +152,22 @@
         }
       ]
     },
-    "planner": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "planner",
+      "name": "Planner/Calendar",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": 18.0,
+        "CAD": 24.0,
+        "GBP": 14.0,
+        "EUR": 16.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["planner", "calendar", "agenda", "organizer"],
+      "tips": "Weekly layouts are great for tracking assignments; monthly layouts help with exams and big deadlines.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Forvencer-2025-Planner-Weekly-Monthly/dp/B0DFCLR323",
@@ -124,5 +189,5 @@
         }
       ]
     }
-  }
+  ]
 }

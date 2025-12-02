@@ -1,0 +1,396 @@
+{
+  "id": "bedding_sleep",
+  "label": "Bedding & Sleep",
+  "items": [
+    {
+      "id": "twin-xl-sheets",
+      "name": "Twin XL sheet set (2 sets recommended)",
+      "description": "Soft, durable Twin XL sheets sized for extra-long dorm mattresses. Having 2 sets makes laundry much easier.",
+      "priority": "high",
+      "quantitySuggestion": "2 sheet sets",
+      "notes": "Look for deep pockets (at least 14–16\") to fit over mattress toppers.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Mellanni-Twin-XL-Sheet-Set/dp/B016P42ARU",
+          "displayName": "Mellanni Twin XL Sheets Set - 3-Piece Iconic Collection",
+          "price": "~$30",
+          "badge": "budget best-seller",
+          "notes": "Extremely popular microfiber Twin XL set, lightweight and wrinkle-resistant.",
+          "averageRating": 4.5,
+          "reviewCount": 400000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/CGK-Unlimited-Twin-Sheet-Set/dp/B078P2WPHX",
+          "displayName": "CGK Unlimited Twin XL 3-Piece Sheet Set",
+          "price": "~$28",
+          "badge": "budget best-seller",
+          "notes": "Highly rated microfiber dorm-friendly set; often featured in back-to-school roundups.",
+          "averageRating": 4.5,
+          "reviewCount": 390000
+        },
+        {
+          "retailer": "Walmart",
+          "url": "https://www.walmart.com/search?q=twin+xl+sheet+set+college",
+          "displayName": "Twin XL Sheet Sets for College – Walmart Selection",
+          "price": "varies",
+          "badge": "multiple options",
+          "notes": "Good for in-store pickup near campus; filter by Twin XL size.",
+          "averageRating": null,
+          "reviewCount": null
+        }
+      ]
+    },
+    {
+      "id": "comforter",
+      "name": "Twin XL comforter or bed-in-a-bag set",
+      "description": "Warm but breathable comforter sized for Twin XL, or an all-in-one bed-in-a-bag set with matching sheets.",
+      "priority": "high",
+      "quantitySuggestion": "1 comforter or set",
+      "notes": "Down-alternative is usually safest for allergies and easier to wash.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Utopia-Bedding-Alternative-Comforter-White/dp/B07XM834N6",
+          "displayName": "Utopia Bedding All Season Down Alternative Comforter (Twin/Twin XL)",
+          "price": "~$30",
+          "badge": "budget pick",
+          "notes": "Simple, fluffy white comforter that works for most climates.",
+          "averageRating": 4.6,
+          "reviewCount": 90000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Bedsure-Twin-Size-Dark-Light/dp/B07R77BTWR",
+          "displayName": "Bedsure Twin XL Comforter Set – 5-Piece Reversible Bed-in-a-Bag",
+          "price": "~$55",
+          "badge": "dorm bundle",
+          "notes": "Includes comforter, sheets, pillowcase, and sham in one coordinated set.",
+          "averageRating": 4.5,
+          "reviewCount": 20000
+        },
+        {
+          "retailer": "Walmart",
+          "url": "https://www.walmart.com/search?q=twin+xl+comforter+set+dorm",
+          "displayName": "Twin XL Dorm Comforter Sets – Walmart Selection",
+          "price": "varies",
+          "badge": "multiple styles",
+          "notes": "Great if you want to see colors and textures in person near campus.",
+          "averageRating": null,
+          "reviewCount": null
+        }
+      ]
+    },
+    {
+      "id": "pillows",
+      "name": "Bed pillows (2)",
+      "description": "Supportive pillows for sleeping. Many students like one softer and one firmer pillow.",
+      "priority": "high",
+      "quantitySuggestion": "2 pillows",
+      "notes": "If you run hot or have allergies, look for cooling or hypoallergenic down-alternative.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Pillows-for-Sleeping-2-Pack/dp/B01LYNW421",
+          "displayName": "Beckham Hotel Collection Bed Pillows – Standard/Queen, Set of 2",
+          "price": "~$45",
+          "badge": "Amazon no.1 best-seller",
+          "notes": "Very popular down-alternative pillows that work for most sleep positions.",
+          "averageRating": 4.5,
+          "reviewCount": 250000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW",
+          "displayName": "Coop Home Goods Original Adjustable Loft Pillow",
+          "price": "~$75",
+          "badge": "adjustable luxury",
+          "notes": "Shredded memory foam you can add/remove for custom height and firmness.",
+          "averageRating": 4.6,
+          "reviewCount": 50000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Bedsure-Standard-Pillows-Set-Alternative/dp/B0DJRX99GD",
+          "displayName": "Bedsure Standard Pillows – Set of 2",
+          "price": "~$25",
+          "badge": "budget set",
+          "notes": "Good all-position pillows if you want something soft and affordable.",
+          "averageRating": 4.5,
+          "reviewCount": 5000
+        }
+      ]
+    },
+    {
+      "id": "mattress-topper",
+      "name": "Mattress topper (Twin XL)",
+      "description": "Adds comfort to often-firm dorm mattresses; foam or plush pad in Twin XL.",
+      "priority": "medium-high",
+      "quantitySuggestion": "1 topper",
+      "notes": "Check dorm rules about memory foam (some get warm); egg-crate foam is cheaper but less durable.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Linenspa-Mattress-Infused-CertiPUR-US-Certified/dp/B0C2H8224C",
+          "displayName": "Linenspa 3-Inch Gel Infused Memory Foam Mattress Topper (Twin XL)",
+          "price": "~$90",
+          "badge": "popular dorm upgrade",
+          "notes": "Gel-infused memory foam to soften a hard dorm mattress.",
+          "averageRating": 4.4,
+          "reviewCount": 30000
+        },
+        {
+          "retailer": "Bedsure",
+          "url": "https://bedsurehome.com/products/thick-mattress-topper-pad-cover",
+          "displayName": "Bedsure Thick Mattress Topper Pad Cover",
+          "price": "~$80",
+          "badge": "plush comfort",
+          "notes": "Overfilled, quilted topper for extra cushion; good if you don’t want full memory foam.",
+          "averageRating": 4.6,
+          "reviewCount": 2000
+        }
+      ]
+    },
+    {
+      "id": "throw-blanket",
+      "name": "Throw blanket",
+      "description": "Smaller blanket for extra warmth or lounging on your bed/common room.",
+      "priority": "medium",
+      "quantitySuggestion": "1 throw blanket",
+      "notes": "Nice comfort item and great to bring to lounges or movie nights.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Bedsure-Flannel-Fleece-Blanket-Throw/dp/B08BC2MSKW",
+          "displayName": "Bedsure Flannel Fleece Throw Blanket",
+          "price": "~$20",
+          "badge": "budget cozy",
+          "notes": "Lightweight, super-soft throw available in many colors.",
+          "averageRating": 4.6,
+          "reviewCount": 90000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/LAGRATY-Blanket-Chenille-50x60%EF%BC%8CHandmade-Crochet/dp/B0BR728TB6",
+          "displayName": "L'AGRATY Chunky Knit Chenille Throw Blanket",
+          "price": "~$70",
+          "badge": "decor + luxe feel",
+          "notes": "Chunky knit look that doubles as decor and a cozy layer.",
+          "averageRating": 4.5,
+          "reviewCount": 1000
+        }
+      ]
+    },
+    {
+      "id": "mattress-protector",
+      "name": "Waterproof mattress protector (Twin XL)",
+      "description": "Protects the dorm mattress and your topper from spills, sweat, and allergens.",
+      "priority": "high",
+      "quantitySuggestion": "1 protector",
+      "notes": "Most schools charge for mattress damage; a protector is cheaper than fees.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/SafeRest-Hypoallergenic-Waterproof-Mattress-Protector/dp/B003PWNGK6",
+          "displayName": "SafeRest Waterproof Mattress Protector – Twin XL",
+          "price": "~$35",
+          "badge": "top-rated",
+          "notes": "Widely recommended cotton-terry waterproof protector with strong reviews.",
+          "averageRating": 4.6,
+          "reviewCount": 200000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/AmazonBasics-Fully-Encased-Waterproof-Mattress-Protector/dp/B0755JMYT8",
+          "displayName": "Amazon Basics Fully Encased Waterproof Mattress Protector",
+          "price": "~$25",
+          "badge": "budget encasement",
+          "notes": "Zippered encasement style for full 6-sided protection.",
+          "averageRating": 4.4,
+          "reviewCount": 15000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Bedsure-Twin-Waterproof-Mattress-Pad/dp/B0CL4KKH57",
+          "displayName": "Bedsure Twin XL Waterproof Mattress Protector",
+          "price": "~$30",
+          "badge": "soft & quiet",
+          "notes": "Quilted, cushioned protector designed specifically for Twin XL dorm beds.",
+          "averageRating": 4.5,
+          "reviewCount": 3000
+        }
+      ]
+    },
+    {
+      "id": "pillow-protectors",
+      "name": "Pillow protectors (zippered, waterproof or allergen-blocking)",
+      "description": "Zippered covers that go over your pillows under the pillowcases to protect from spills and allergens.",
+      "priority": "medium",
+      "quantitySuggestion": "1–2 sets",
+      "notes": "Especially helpful if you have allergies or want pillows to last all four years.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/AllerEase-Waterproof-Pillow-Protector-Allergy/dp/B0BPYYHJZV",
+          "displayName": "AllerEase Waterproof Soft Top Pillow Protectors – 2 Pack",
+          "price": "~$20",
+          "badge": "allergy-friendly",
+          "notes": "Waterproof and zippered; good for spills and dust-mite protection.",
+          "averageRating": 4.5,
+          "reviewCount": 1000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Utopia-Bedding-Waterproof-Zippered-Encasement/dp/B088WX8WPX",
+          "displayName": "Utopia Bedding Waterproof Zippered Pillow Encasements – 4 Pack",
+          "price": "~$18",
+          "badge": "value pack",
+          "notes": "Great price per pillow if you’re protecting multiple pillows.",
+          "averageRating": 4.5,
+          "reviewCount": 8000
+        },
+        {
+          "retailer": "Walmart",
+          "url": "https://www.walmart.com/ip/AllerEase-Waterproof-Allergy-Protection-Zippered-Machine-Washable-Pillow-Protector-Standard-Queen-2-Pack/628567746",
+          "displayName": "AllerEase Waterproof Pillow Cover Protector – 2 Pack (Walmart)",
+          "price": "~$15",
+          "badge": "big-box option",
+          "notes": "Easy to grab in-store if you’re shopping close to campus.",
+          "averageRating": 4.4,
+          "reviewCount": 100
+        }
+      ]
+    },
+    {
+      "id": "body-pillow",
+      "name": "Body pillow (optional)",
+      "description": "Long pillow for side sleepers or extra comfort while lounging or studying in bed.",
+      "priority": "optional",
+      "quantitySuggestion": "1 (if desired)",
+      "notes": "Nice for side sleepers and for propping yourself up to read or use a laptop in bed.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Utopia-Bedding-Ultra-Soft-Pillow/dp/B01FXROXFW",
+          "displayName": "Utopia Bedding Full Body Pillow – 20\" x 54\"",
+          "price": "~$30",
+          "badge": "budget full-body",
+          "notes": "Basic, soft body pillow that works well with a separate cover.",
+          "averageRating": 4.5,
+          "reviewCount": 20000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Coop-Home-Goods-Body-Pillow-Full-Long-Memory-Foam-Quiet-Noiseless-Silent-Cover/dp/B00OKY8BOY",
+          "displayName": "Coop Home Goods Original Adjustable Body Pillow",
+          "price": "~$99",
+          "badge": "premium adjustable",
+          "notes": "Memory-foam fill you can adjust for support; very popular among side sleepers.",
+          "averageRating": 4.7,
+          "reviewCount": 7000
+        }
+      ]
+    },
+    {
+      "id": "bed-risers",
+      "name": "Bed risers (if allowed)",
+      "description": "Sturdy risers to lift your dorm bed and create more storage space underneath.",
+      "priority": "medium",
+      "quantitySuggestion": "1 set (usually 4–8 risers)",
+      "notes": "Always check your housing rules before using risers; some schools prohibit them.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/ANNKUT-Risers-Adjustable-Furniture-Extenders/dp/B0CDRMZXYC",
+          "displayName": "ANNKUT 8-Inch Heavy Duty Bed Risers (Set of 4)",
+          "price": "~$25",
+          "badge": "heavy-duty",
+          "notes": "Stackable risers designed to support heavy furniture and beds.",
+          "averageRating": 4.5,
+          "reviewCount": 1000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/TomGear-Risers-Heights-Stackable-Extenders/dp/B09TGQLNQB",
+          "displayName": "TomGear Bed Risers – 3, 5 or 8-Inch Adjustable (Set of 8)",
+          "price": "~$30",
+          "badge": "adjustable height",
+          "notes": "Flexible height options and high weight capacity; good for maximizing storage.",
+          "averageRating": 4.4,
+          "reviewCount": 1500
+        },
+        {
+          "retailer": "Walmart",
+          "url": "https://www.walmart.com/search?q=bed+risers+dorm",
+          "displayName": "Bed Risers for Dorms – Walmart Selection",
+          "price": "varies",
+          "badge": "multiple styles",
+          "notes": "Includes various heights and materials if you prefer to shop in person.",
+          "averageRating": null,
+          "reviewCount": null
+        }
+      ]
+    },
+    {
+      "id": "bedside-lamp",
+      "name": "Bedside lamp with USB/charging",
+      "description": "Small lamp for your desk or bedside with built-in USB ports or outlets for charging devices.",
+      "priority": "medium",
+      "quantitySuggestion": "1 lamp",
+      "notes": "Aim for a compact base and warm light; touch controls and USB ports are especially dorm-friendly.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Bedside-Lamp-USB-port-Nightstand/dp/B087CDBKCH",
+          "displayName": "Yarra-Decor 3-Way Dimmable Touch Bedside Lamp with USB Port",
+          "price": "~$30",
+          "badge": "popular dorm lamp",
+          "notes": "Touch controls with USB charging; small footprint for tight nightstands.",
+          "averageRating": 4.5,
+          "reviewCount": 15000
+        },
+        {
+          "retailer": "Walmart",
+          "url": "https://www.walmart.com/c/kp/lamp-usb-port-outlet",
+          "displayName": "Bedside Lamps with USB Ports & Outlets – Walmart Selection",
+          "price": "varies",
+          "badge": "many options",
+          "notes": "Multiple lamps with built-in USB and power outlets; good for in-store pickup.",
+          "averageRating": null,
+          "reviewCount": null
+        }
+      ]
+    },
+    {
+      "id": "bedside-caddy",
+      "name": "Bedside caddy / hanging organizer",
+      "description": "Hangs off the side of your bed to hold your phone, glasses, notebook, and remotes.",
+      "priority": "medium",
+      "quantitySuggestion": "1 caddy",
+      "notes": "Especially useful for lofted or top bunks where a traditional nightstand doesn’t fit.",
+      "affiliateLinks": [
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Loghot-Bedside-Storage-Organizer-Hospital/dp/B07QH4BN2Q",
+          "displayName": "Loghot Bedside Caddy Hanging Organizer",
+          "price": "~$20",
+          "badge": "Amazon Choice-style",
+          "notes": "Multiple pockets for phone, notebook, and water bottle; good size for dorm rails.",
+          "averageRating": 4.5,
+          "reviewCount": 3000
+        },
+        {
+          "retailer": "Amazon",
+          "url": "https://www.amazon.com/Bseash-Hanging-Organizer-Bedside-Hospital/dp/B07F1BRL7T",
+          "displayName": "Bseash Bunk Bed Organizer / Bedside Caddy – 8 Pockets",
+          "price": "~$25",
+          "badge": "large capacity",
+          "notes": "Durable 600D Oxford fabric with 8 pockets; designed for dorm and bunk beds.",
+          "averageRating": 4.4,
+          "reviewCount": 5000
+        }
+      ]
+    }
+  ]
+}

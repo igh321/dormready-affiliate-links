@@ -1,98 +1,112 @@
 {
   "categoryId": "decor_storage",
   "version": 3,
-  "lastUpdated": "2025-11-21",
+  "lastUpdated": "2025-12-01",
   "items": {
-    "storage-bins": {
+    "under-bed-storage": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BQKLVGWB",
-          "displayName": "Sterilite 66 Qt ClearView Latch Box 6-Pack",
+          "url": "https://www.amazon.com/Amazon-Basics-Storage-Container-Handles/dp/B07JGWSB8T",
+          "displayName": "Amazon Basics Under Bed Fabric Zipper Storage Bags with Window & Handles, 2-Pack",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.6,
-          "reviewCount": 52000,
-          "badge": "best_seller"
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B07DFGS9ZJ",
-          "displayName": "StorageRight Under Bed Storage Containers 2-Pack",
+          "url": "https://www.amazon.com/Underbed-Containers-Organizer-Capacity-Organization/dp/B09Q38H2J4",
+          "displayName": "Budding Joy 90L Under Bed Storage Containers, Foldable Underbed Storage Bags",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.4,
-          "reviewCount": 28000
+          "priority": 2
         }
       ]
     },
-    "command-strips": {
+    "over-door-organizer": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B073WMZ3GG",
-          "displayName": "Command Large Picture Hanging Strips 18-Pairs",
+          "url": "https://www.amazon.com/JARLINK-Organizer-Storage-Capacity-Bathroom/dp/B0C89STMFK",
+          "displayName": "JARLINK Over The Door Organizer Storage – 5 Shelf Hanging Door Organizer",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.7,
-          "reviewCount": 145000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/JARLINK-Door-Organizer-Storage-5-Shelf-Hanging-Door-Organizer-5-Large-Capacity-Pockets-Anti-Tilt-44-lb-Load-Behind-Door-Organizer-Bedroom-Bathroom-Pa/16024216873",
+          "displayName": "JARLINK 5-Shelf Over Door Organizer – Walmart Listing",
+          "affiliateTag": "dormready",
+          "priority": 2
+        }
+      ]
+    },
+    "command-hooks-strips": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Command-Including-Christmas-Decorations-Damage-Free/dp/B07712H557",
+          "displayName": "Command Variety Pack – Picture Hanging Strips, Wire Hooks & Utility Hooks (19-Piece Kit)",
+          "affiliateTag": "dormready-20",
+          "priority": 1
+        }
+      ]
+    },
+    "desk-drawer-organizers": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Vtopmart-Organizers-Versatile-Organizer-Accessories/dp/B0CTFC1VJS",
+          "displayName": "Vtopmart 25-Piece Desk Drawer Organizer Set – 4 Sizes, Clear Plastic",
+          "affiliateTag": "dormready-20",
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0B5GFZ5TB",
-          "displayName": "Command Hooks Variety Pack 16-Hooks",
+          "url": "https://www.amazon.com/Drawer-Organizer-Dresser-Desk-Dividers/dp/B098HH4KSK",
+          "displayName": "25-Piece Clear Plastic Drawer Organizer Trays for Desk/Makeup/Kitchen",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.6,
-          "reviewCount": 65000
+          "priority": 2
         }
       ]
     },
-    "desk-organizer": {
+    "area-rug": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B08GK7NHFJ",
-          "displayName": "SimpleHouseware Mesh Desk Organizer with Sliding Drawer",
+          "url": "https://www.amazon.com/DEAXLife-Washable-Rug-3x5-Entryway/dp/B0DKG174H7",
+          "displayName": "DEAXLife Washable Area Rug 3x5 – Non-Slip Indoor Entryway/Bedroom Rug",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.6,
-          "reviewCount": 42000,
-          "badge": "best_seller"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Entryway-Washable-Abstract-Classroom-Bathroom/dp/B0DCNPDW5H",
+          "displayName": "Abstract Boho 3x5 Washable Area Rug – Non-Slip Bedroom/Entry Rug",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "posters-decor": {
+    "string-lights": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0C7TQBZ6Q",
-          "displayName": "HAUS AND HUES Aesthetic Room Decor Wall Art Set",
+          "url": "https://www.amazon.com/Minetom-String-Lights-Battery-Operated/dp/B0CRKCYNZX",
+          "displayName": "Minetom Star String Lights Battery Operated – 17 ft 50 LED, Warm White",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 18000,
-          "badge": "best_seller"
-        }
-      ]
-    },
-    "mirror": {
-      "itemVersion": 1,
-      "links": [
+          "priority": 1
+        },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B07ZHV9VZW",
-          "displayName": "Neutype Full Length Door Mirror 48x14 Inches",
+          "url": "https://www.amazon.com/Twinkle-Window-Curtain-String-Light/dp/B01LLSNG1E",
+          "displayName": "Twinkle Star 300 LED Curtain String Lights – Warm White, 8 Modes",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 35000,
-          "badge": "amazons_choice"
+          "priority": 2
         }
       ]
     }

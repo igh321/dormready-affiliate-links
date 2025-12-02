@@ -1,0 +1,222 @@
+"decor_storage": {
+  "displayName": "Decor & Storage",
+  "icon": "square.grid.2x2",
+  "sortOrder": 7,
+  "items": [
+    {
+      "id": "under-bed-storage",
+      "name": "Under-Bed Storage Containers/Bags",
+      "defaultQuantity": 2,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 20,
+          "max": 50
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "under bed storage containers",
+        "underbed storage bags",
+        "dorm underbed storage",
+        "storage bins with handles"
+      ],
+      "tips": "Measure your bed height and frame first so containers actually slide underneath. Soft-sided bags are easier to pack in a car; hard bins protect better but take more space.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Amazon-Basics-Storage-Container-Handles/dp/B07JGWSB8T",
+          "displayName": "Amazon Basics Under Bed Fabric Zipper Storage Bags with Window & Handles, 2-Pack",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Underbed-Containers-Organizer-Capacity-Organization/dp/B09Q38H2J4",
+          "displayName": "Budding Joy 90L Under Bed Storage Containers, Foldable Underbed Storage Bags",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "over-door-organizer",
+      "name": "Over-the-Door Organizer",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 25,
+          "max": 45
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "over the door organizer",
+        "door hanging organizer",
+        "behind door storage",
+        "pocket organizer"
+      ],
+      "tips": "Great for toiletries, snacks, or random ‘junk drawer’ items. Check door clearance so it can still close with the organizer hanging.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/JARLINK-Organizer-Storage-Capacity-Bathroom/dp/B0C89STMFK",
+          "displayName": "JARLINK Over The Door Organizer Storage – 5 Shelf Hanging Door Organizer",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/JARLINK-Door-Organizer-Storage-5-Shelf-Hanging-Door-Organizer-5-Large-Capacity-Pockets-Anti-Tilt-44-lb-Load-Behind-Door-Organizer-Bedroom-Bathroom-Pa/16024216873",
+          "displayName": "JARLINK 5-Shelf Over Door Organizer – Walmart Listing",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "command-hooks-strips",
+      "name": "Command Hooks & Strips",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 12,
+          "max": 25
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "Command hooks",
+        "Command strips",
+        "damage free hanging",
+        "dorm wall hooks"
+      ],
+      "tips": "Most dorms don’t allow nails or screws. Command-brand hooks and strips are a dorm staple for hanging decor, keys, towels, and headphones without wall damage.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Command-Including-Christmas-Decorations-Damage-Free/dp/B07712H557",
+          "displayName": "Command Variety Pack – Picture Hanging Strips, Wire Hooks & Utility Hooks (19-Piece Kit)",
+          "affiliateTag": null,
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "desk-drawer-organizers",
+      "name": "Desk/Drawer Organizer Trays",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 15,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "desk drawer organizer",
+        "clear drawer trays",
+        "office drawer bins",
+        "junk drawer organizer"
+      ],
+      "tips": "Use small bins in your desk drawer for pens, chargers, sticky notes, and random essentials so they don’t turn into a chaotic ‘everything drawer’.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Vtopmart-Organizers-Versatile-Organizer-Accessories/dp/B0CTFC1VJS",
+          "displayName": "Vtopmart 25-Piece Desk Drawer Organizer Set – 4 Sizes, Clear Plastic",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Drawer-Organizer-Dresser-Desk-Dividers/dp/B098HH4KSK",
+          "displayName": "25-Piece Clear Plastic Drawer Organizer Trays for Desk/Makeup/Kitchen",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "area-rug",
+      "name": "Small Area Rug (3' x 5')",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 30,
+          "max": 80
+        }
+      },
+      "climates": ["cold", "moderate"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "3x5 washable rug",
+        "dorm area rug",
+        "soft bedroom rug",
+        "non slip rug"
+      ],
+      "tips": "A rug makes tile or concrete floors feel warmer and cozier. Make sure it’s low-pile and machine-washable or easy to spot clean.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/DEAXLife-Washable-Rug-3x5-Entryway/dp/B0DKG174H7",
+          "displayName": "DEAXLife Washable Area Rug 3x5 – Non-Slip Indoor Entryway/Bedroom Rug",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Entryway-Washable-Abstract-Classroom-Bathroom/dp/B0DCNPDW5H",
+          "displayName": "Abstract Boho 3x5 Washable Area Rug – Non-Slip Bedroom/Entry Rug",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "string-lights",
+      "name": "String Lights (If Allowed)",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 12,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "dorm string lights",
+        "fairy lights",
+        "curtain lights",
+        "photo clip lights"
+      ],
+      "tips": "Check your housing rules; some dorms restrict string lights. Choose cool-running LED lights and hang with Command hooks or clips to avoid damage.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Minetom-String-Lights-Battery-Operated/dp/B0CRKCYNZX",
+          "displayName": "Minetom Star String Lights Battery Operated – 17 ft 50 LED, Warm White",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Twinkle-Window-Curtain-String-Light/dp/B01LLSNG1E",
+          "displayName": "Twinkle Star 300 LED Curtain String Lights – Warm White, 8 Modes",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}

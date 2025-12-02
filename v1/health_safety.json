@@ -1,59 +1,43 @@
 {
   "categoryId": "health_safety",
   "version": 3,
-  "lastUpdated": "2025-11-21",
+  "lastUpdated": "2025-12-01",
   "items": {
     "first-aid-kit": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B08NT1DMDS",
-          "displayName": "First Aid Only 299-Piece All-Purpose First Aid Kit",
+          "url": "https://www.amazon.com/DormDoc-2-0-Piece-First-Students/dp/B01E53NB9O",
+          "displayName": "DormDoc College First Aid Kit – 175-Piece Medical Kit for Students",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.7,
-          "reviewCount": 65000,
-          "badge": "amazons_choice"
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B000069EYA",
-          "displayName": "Johnson & Johnson All-Purpose Compact First Aid Kit",
+          "url": "https://www.amazon.com/first-aid-kit/s?k=first+aid+kit",
+          "displayName": "All-Purpose First Aid Kits – Amazon Search (Includes First Aid Only 299-Piece and Similar Sets)",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.6,
-          "reviewCount": 52000
+          "priority": 2
         }
       ]
     },
-    "cleaning-supplies": {
+    "disinfecting-wipes": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B083BLMC3Q",
-          "displayName": "Clorox Disinfecting Wipes 3-Pack 225 Count Total",
+          "url": "https://www.amazon.com/Clorox-Disinfecting-Bleach-Cleaning-Packaging/dp/B0CKGBWW8D",
+          "displayName": "Clorox Disinfecting Wipes Value Pack, Bleach Free, 75 Count Each (Pack of 2)",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.8,
-          "reviewCount": 185000,
-          "badge": "best_seller"
-        }
-      ]
-    },
-    "vitamins": {
-      "itemVersion": 1,
-      "links": [
+          "priority": 1
+        },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0B7RNZHF4",
-          "displayName": "Nature Made Multivitamin Complete 130 Tablets",
+          "url": "https://www.amazon.com/Amazon-Brand-Solimo-Disinfecting-Wipes/dp/B07F246YG1",
+          "displayName": "Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, 255 Wipes (3 x 85-Count Canisters)",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.7,
-          "reviewCount": 95000,
-          "badge": "best_seller"
+          "priority": 2
         }
       ]
     },
@@ -62,28 +46,112 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B086KB4Q6B",
-          "displayName": "Purell Advanced Hand Sanitizer Gel 8 oz 4-Pack",
+          "url": "https://www.amazon.com/GOJO-PURELL-Instant-Sanitizer-Vitamin/dp/B007ZH3IFK",
+          "displayName": "PURELL Advanced Instant Hand Sanitizer, 12 oz Pump Bottle",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.8,
-          "reviewCount": 125000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Advanced-Sanitizer-Refreshing-Bottle-Bottles/dp/B084GF729T",
+          "displayName": "PURELL Advanced Hand Sanitizer Refreshing Gel, 8 oz Pump Bottles, Pack of 4",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "sleep-mask": {
+    "facial-tissues": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BRZPWK9V",
-          "displayName": "MZOO Sleep Eye Mask 3D Contoured Cup",
+          "url": "https://www.amazon.com/Kleenex-Trusted-Facial-Tissues-Packaging/dp/B0CTD2XLX5",
+          "displayName": "Kleenex Trusted Care Facial Tissues, 8 Flat Boxes, 2-Ply, 200 Tissues Per Box",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.4,
-          "reviewCount": 95000,
-          "badge": "best_seller"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Price-Value-Premium-Facial-Tissues/dp/B0C349DZ4J",
+          "displayName": "Price Value Premium Facial Tissues, 8 Boxes, 230 Tissues Per Box",
+          "affiliateTag": "dormready-20",
+          "priority": 2
+        }
+      ]
+    },
+    "digital-thermometer": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Best-Sellers-Health-Care-Thermometers/zgbs/hpc/3764261",
+          "displayName": "Amazon Best Sellers – Health Care Thermometers (Top-Rated Options)",
+          "affiliateTag": "dormready-20",
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/digital-thermometer/s?k=digital+thermometer",
+          "displayName": "Digital Thermometers – Amazon Search (Oral & Forehead Styles)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
+        }
+      ]
+    },
+    "multi-surface-cleaner": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Multipurpose-Countertops-Appliances-Upholstery-Multi-surface/dp/B001KYVNOW",
+          "displayName": "Better Life All-Purpose Cleaner – Multipurpose Home & Surface Spray",
+          "affiliateTag": "dormready-20",
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/all-purpose-cleaners/b?ie=UTF8&node=15356141",
+          "displayName": "All-Purpose Household Cleaners – Amazon Category (Includes Lysol, Method, Mrs. Meyer’s)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
+        }
+      ]
+    },
+    "face-masks": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Disposable-Medical-Masks-Breathable-Protection/dp/B0993DM7BW",
+          "displayName": "DR.MOXA 50 Pack Disposable Face Masks, Medical Grade 3-Ply (Blue)",
+          "affiliateTag": "dormready-20",
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Boncare-KN95-Disposable-Breathable-Comfortable/dp/B08V4TJGRQ",
+          "displayName": "Boncare KN95 Face Masks 50 Pack, 5-Layer Disposable Masks (Black)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
+        }
+      ]
+    },
+    "personal-safety-alarm": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Personal-Alarm-Keychain-Women-Safety/dp/B085DKKPZS",
+          "displayName": "Weten Personal Safety Alarm Keychain – 130dB Siren with LED Light",
+          "affiliateTag": "dormready-20",
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/personal-safety-alarm/s?k=personal+safety+alarm&page=2",
+          "displayName": "Personal Safety Alarm Options – Amazon Search (Multiple Brands & Colors)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     }

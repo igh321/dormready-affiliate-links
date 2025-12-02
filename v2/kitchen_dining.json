@@ -1,0 +1,206 @@
+"kitchen_dining": {
+  "displayName": "Kitchen & Dining",
+  "icon": "fork.knife",
+  "sortOrder": 6,
+  "items": [
+    {
+      "id": "microwave-dishes",
+      "name": "Microwave-Safe Dishes",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 20,
+          "max": 60
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "microwave safe dinnerware set",
+        "lightweight plates and bowls",
+        "dorm dinnerware",
+        "compact dish set"
+      ],
+      "tips": "Choose a lightweight, chip-resistant set that stacks compactly. A service for 2–4 is plenty for a dorm and easier to store.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Corelle-Winter-Frst-Wht-12pc/dp/B09LVG5CHH",
+          "displayName": "Corelle 12-Piece Dinnerware Set (Winter Frost White, Service for 4)",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Youngever-18-Piece-Plastic-Kitchen-Dinnerware/dp/B09FYNBH2P",
+          "displayName": "Youngever 18-Piece Plastic Kitchen Dinnerware Set (Plates, Bowls, Cups)",
+          "affiliateTag": null,
+          "priority": 2
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/Corelle-Country-Cottage-White-and-Green-Round-12-Piece-Dinnerware-Set/773171614",
+          "displayName": "Corelle 12-Piece Dinnerware Set (Country Cottage, Walmart)",
+          "affiliateTag": null,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "water-bottle",
+      "name": "Reusable Water Bottle",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": {
+          "min": 20,
+          "max": 45
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "insulated water bottle",
+        "stainless steel bottle",
+        "reusable bottle for school",
+        "dorm hydration"
+      ],
+      "tips": "An insulated bottle keeps water cold through long class days. Look for a leakproof lid and something that fits your backpack pocket or cup holder.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Hydro-Flask-Stainless-Reusable-Bottle/dp/B0BG6NK5T5",
+          "displayName": "Hydro Flask 32 oz Wide Mouth Water Bottle with Flex Straw Cap",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Stanley-Resistant-Insulated-Stainless-BPA-Free/dp/B0DR9ML5X9",
+          "displayName": "Stanley IceFlow 2.0 Flip Straw Tumbler with Handle, 30 oz",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "coffee-maker",
+      "name": "Compact Coffee Maker",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 70,
+          "max": 150
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "compact coffee maker",
+        "single serve coffee machine",
+        "dorm coffee maker",
+        "small pod coffee maker"
+      ],
+      "tips": "Check dorm rules before bringing a coffee maker. Single-serve pod machines are easiest for small spaces—just be sure to factor in pod costs.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2BHKC",
+          "displayName": "Keurig K-Mini Single Serve Coffee Maker",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Nespresso-Vertuo-POP-Breville-White/dp/B0CS71J3GP",
+          "displayName": "Nespresso Vertuo Pop+ Coffee and Espresso Machine by Breville",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "mini-fridge",
+      "name": "Mini Fridge",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 150,
+          "max": 260
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "mini fridge with freezer",
+        "compact refrigerator dorm",
+        "3.2 cu ft mini fridge",
+        "dorm fridge"
+      ],
+      "tips": "Confirm if your room already includes a fridge and whether your school has size or wattage limits. Shared fridges can save money and space.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Frigidaire-Compact-Refrigerator-Built-Bottle/dp/B0DJTVG1NM",
+          "displayName": "Frigidaire 3.2 Cu. Ft. Retro Compact Refrigerator with Side Bottle Opener",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/BLACK-DECKER-BCRK32B-Compact-Refrigerator/dp/B01DZQI6W4",
+          "displayName": "BLACK+DECKER 3.2 Cu. Ft. Compact Refrigerator (BCRK32B)",
+          "affiliateTag": null,
+          "priority": 2
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/BLACK-DECKER-BCRK32B-Compact-Refrigerator-Mini-Fridge-with-Freezer-3-2-cu-ft-Black/136130064",
+          "displayName": "BLACK+DECKER BCRK32B Compact Refrigerator & Mini Fridge with Freezer (Walmart)",
+          "affiliateTag": null,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "utensils",
+      "name": "Eating Utensils",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 15,
+          "max": 35
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "flatware set for 4",
+        "stainless steel utensils",
+        "college silverware set",
+        "dorm cutlery"
+      ],
+      "tips": "A small 16–20 piece set is plenty. Look for stainless steel that’s dishwasher-safe if you’ll have access to a shared kitchen.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/AmazonBasics-20-Piece-Stainless-Flatware-Service/dp/B0736S3KJM",
+          "displayName": "Amazon Basics 20-Piece Stainless Steel Flatware Set (Service for 4)",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/LIANYU-20-Piece-Silverware-Stainless-Dishwasher/dp/B06XK6PXX8",
+          "displayName": "LIANYU 20-Piece Stainless Steel Silverware Flatware Set (Service for 4)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}

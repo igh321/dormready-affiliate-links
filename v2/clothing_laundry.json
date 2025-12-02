@@ -1,11 +1,24 @@
-{
-  "categoryId": "clothing_laundry",
-  "version": 3,
-  "lastUpdated": "2025-12-01",
-  "items": {
-    "laundry-basket": {
-      "itemVersion": 1,
-      "links": [
+"clothing_laundry": {
+  "displayName": "Clothing & Laundry",
+  "icon": "tshirt.fill",
+  "sortOrder": 3,
+  "items": [
+    {
+      "id": "laundry-basket",
+      "name": "Laundry Basket/Bag",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 18.0,
+        "CAD": 24.0,
+        "GBP": 14.0,
+        "EUR": 16.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["laundry basket", "laundry bag", "hamper"],
+      "tips": "Collapsible or mesh bags save space. Consider one with backpack straps.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/HOMEST-Laundry-Machine-Washable-Organizer/dp/B09Y99ZZ6S",
@@ -30,9 +43,22 @@
         }
       ]
     },
-    "hangers": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "hangers",
+      "name": "Hangers",
+      "defaultQuantity": 30,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 22.0,
+        "CAD": 29.0,
+        "GBP": 18.0,
+        "EUR": 20.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["hangers", "clothes hangers", "closet"],
+      "tips": "Slim velvet hangers save space. Bring more than you think you'll need.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Amazon-Basics-Non-Slip-Clothes-Hangers/dp/B00FXNAAW2",
@@ -50,9 +76,22 @@
         }
       ]
     },
-    "laundry-detergent": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "laundry-detergent",
+      "name": "Laundry Detergent",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 18.0,
+        "CAD": 24.0,
+        "GBP": 14.0,
+        "EUR": 16.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["detergent", "laundry soap", "washing powder", "pods"],
+      "tips": "Pods are convenient for dorm laundry rooms. Consider HE formulas.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Tide-Liquid-Laundry-Detergent-Compatible/dp/B09FFYXYM2",
@@ -77,9 +116,22 @@
         }
       ]
     },
-    "drying-rack": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "drying-rack",
+      "name": "Drying Rack",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": 28.0,
+        "CAD": 36.0,
+        "GBP": 22.0,
+        "EUR": 25.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["drying rack", "clothes rack", "air dry"],
+      "tips": "Saves money on dryer costs and good for delicates. Get a foldable one.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/AmazonBasics-Foldable-Drying-Rack-White/dp/B00H7P1GPO",
@@ -96,9 +148,22 @@
         }
       ]
     },
-    "iron-steamer": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "iron-steamer",
+      "name": "Iron or Steamer",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": 30.0,
+        "CAD": 39.0,
+        "GBP": 24.0,
+        "EUR": 27.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["iron", "steamer", "wrinkle remover"],
+      "tips": "Handheld steamers are easier in dorms. Check if your dorm allows irons.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Hilife-Steamer-Handheld-Clothing-Capacity/dp/B07HF3X6Y4",
@@ -116,5 +181,5 @@
         }
       ]
     }
-  }
+  ]
 }

@@ -1,95 +1,164 @@
 {
   "categoryId": "other_essentials",
   "version": 3,
-  "lastUpdated": "2025-11-21",
+  "lastUpdated": "2025-12-01",
   "items": {
-    "umbrella": {
+    "small-tool-kit": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0756Y3XV2",
-          "displayName": "Repel Windproof Travel Umbrella with Teflon Coating",
+          "url": "https://www.amazon.com/40-Piece-Household-Tools-Kit-Students/dp/B0885TS648",
+          "displayName": "39-Piece Household Tools Kit – Small Basic Home Tool Set with Plastic Toolbox (Dorm/Apartment)",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 125000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dorm-room-tool-kit/s?k=dorm+room+tool+kit",
+          "displayName": "Dorm Room Tool Kits – Amazon Search (Multiple Compact Sets)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "winter-coat": {
+    "reusable-shopping-bags": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BQKM7YNH",
-          "displayName": "Columbia Men's Watertight II Rain Jacket",
+          "url": "https://www.amazon.com/Reusable-Grocery-Bags-Foldable-Machine-Washable-Reusable-Shopping-Bags-Bulk-Colorful-Reusable-Lightweight-Polyester/dp/B07XFLT4TS",
+          "displayName": "BeeGreen 10-Pack Reusable Grocery Bags – Foldable, Machine Washable, Lightweight",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 75000,
-          "badge": "best_seller"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Best-Sellers-Kitchen-Reusable-Grocery-Bags/zgbs/kitchen/1252210011",
+          "displayName": "Best Sellers – Reusable Grocery Bags (Multiple High-Rated Options)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "boots": {
+    "compact-umbrella": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B097CJGD9N",
-          "displayName": "Columbia Women's Ice Maiden II Snow Boot",
+          "url": "https://www.amazon.com/REPEL-Windproof-Travel-Umbrella-Withstands/dp/B0F9HWMVVP",
+          "displayName": "REPEL Windproof Travel Umbrella – Compact Auto-Folding, Withstands High Winds",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 42000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/windproof-travel-umbrella/s?k=windproof+travel+umbrella",
+          "displayName": "Windproof Travel Umbrellas – Amazon Search (Multiple Compact Options)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "fan": {
+    "heavy-winter-coat": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BQKLGQMJ",
-          "displayName": "Honeywell TurboForce Power Fan Quiet Operation",
+          "url": "https://www.amazon.com/TACVASEN-Outdoor-Waterproof-Windproof-Snowboard/dp/B07YKCLC2D",
+          "displayName": "TACVASEN Men's Winter Skiing Jacket – Waterproof, Fleece-Lined, Insulated Parka",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.6,
-          "reviewCount": 185000,
-          "badge": "best_seller"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/IKAZZ-Womens-Winter-Thickened-Insulated/dp/B0BKGFHJGN",
+          "displayName": "IKAZZ Women’s Winter Coat – Thickened Warm Insulated Vegan Down Long Parka with Hood",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "bike-lock": {
+    "everyday-sunscreen": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B06XCMWW9H",
-          "displayName": "Kryptonite Kryptolok Standard Bicycle U-Lock",
+          "url": "https://www.amazon.com/Derma-Everday-Sunscreen-Moisturizer-Sunblock/dp/B0B14VFZCR",
+          "displayName": "Derma B Everyday Sun Block – Lightweight SPF Moisturizer for Face & Body",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 28000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Best-Sellers-Sunscreens/zgbs/beauty/15239990011",
+          "displayName": "Best Sellers – Sunscreens on Amazon (Top-Rated SPF Options)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     },
-    "duct-tape": {
+    "sunglasses": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B01M1DTDGZ",
-          "displayName": "Gorilla Heavy Duty Duct Tape Black 1.88 x 30 yards",
+          "url": "https://www.amazon.com/WearMe-Pro-Classic-Polarized-Sunglasses/dp/B082LQ1LKJ",
+          "displayName": "WearMe Pro Classic Polarized Sunglasses – Unisex Retro Square Style",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.8,
-          "reviewCount": 95000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Polarspex-Polarized-Lightweight-Flexible-Sunglasses/dp/B08G8BBQ2B",
+          "displayName": "Polarspex Classic Unisex Polarized Sunglasses – Ultra Lightweight",
+          "affiliateTag": "dormready-20",
+          "priority": 2
+        }
+      ]
+    },
+    "id-lanyard": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/3-Pack-Clear-ID-Badge-Holder-with-Lanyard-Black-Lanyards-with-Vertical-Waterproof-ID-Badge-Holder-for-Office-School-Travel/17020061055",
+          "displayName": "3-Pack Clear ID Badge Holder with Black Lanyards – Waterproof Vertical Holders",
+          "affiliateTag": "dormready",
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/MONDO-DESIGNS-Holder-Lanyard-Wallet/dp/B0C3Z5VZJ7",
+          "displayName": "MONDO DESIGNS 2-in-1 ID Badge Holder & Lanyard Wallet – Small Wallet + Lanyard",
+          "affiliateTag": "dormready-20",
+          "priority": 2
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/bolimoss-Lanyard-Florals-Detachable-Watercolor/dp/B0F6W98C65",
+          "displayName": "bolimoss 2-in-1 ID Badge Holder & Lanyard Wallet – Cute Floral Leather Design",
+          "affiliateTag": "dormready-20",
+          "priority": 3
+        }
+      ]
+    },
+    "weekend-duffel": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Dimayar-Travel-Duffle-Bag-Men/dp/B0DMDJ184P",
+          "displayName": "Dimayar 40L Travel Duffle Bag – Foldable Overnight Bag with Shoe Compartment",
+          "affiliateTag": "dormready-20",
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/BOEX-Stylish-Duffle-Bag-Travel/dp/B0DQK1MCRB",
+          "displayName": "BOEX 20–23\" Expandable Travel Duffle Bag (40L) – Water-Resistant Carry-On Weekender",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     }

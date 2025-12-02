@@ -1,38 +1,38 @@
 {
   "categoryId": "bedding_sleep",
   "version": 3,
-  "lastUpdated": "2025-11-21",
+  "lastUpdated": "2025-12-01",
   "items": {
     "twin-xl-sheets": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B08P5FBK3S",
-          "displayName": "Mellanni Twin XL Sheet Set - 1800 Thread Count",
+          "url": "https://www.amazon.com/Mellanni-Twin-XL-Sheet-Set/dp/B016P42ARU",
+          "displayName": "Mellanni Twin XL Sheets Set - 3-Piece Iconic Collection",
           "affiliateTag": "dormready-20",
           "priority": 1,
-          "averageRating": 4.6,
-          "reviewCount": 485000,
-          "badge": "amazons_choice"
+          "averageRating": 4.5,
+          "reviewCount": 400000,
+          "badge": "best_seller"
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0CHXBZLNP",
-          "displayName": "CGK Unlimited Twin XL Sheet Set - Hotel Luxury",
+          "url": "https://www.amazon.com/CGK-Unlimited-Twin-Sheet-Set/dp/B078P2WPHX",
+          "displayName": "CGK Unlimited Twin XL 3-Piece Sheet Set",
           "affiliateTag": "dormready-20",
           "priority": 2,
           "averageRating": 4.5,
-          "reviewCount": 180000
+          "reviewCount": 390000,
+          "badge": "best_seller"
         },
         {
           "retailer": "walmart",
           "url": "https://www.walmart.com/search?q=twin+xl+sheet+set+college",
-          "displayName": "Twin XL Sheet Sets at Walmart",
+          "displayName": "Twin XL Sheet Sets for College – Walmart Selection",
           "affiliateTag": "dormready",
           "priority": 3,
-          "averageRating": 4.3,
-          "reviewCount": 12000
+          "badge": "multiple_options"
         }
       ]
     },
@@ -41,32 +41,31 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BZK1MK6D",
-          "displayName": "Bedsure Twin XL Comforter Set - All Season Reversible",
+          "url": "https://www.amazon.com/Utopia-Bedding-Alternative-Comforter-White/dp/B07XM834N6",
+          "displayName": "Utopia Bedding All Season Down Alternative Comforter (Twin/Twin XL)",
           "affiliateTag": "dormready-20",
           "priority": 1,
           "averageRating": 4.6,
-          "reviewCount": 125000,
-          "badge": "best_seller"
+          "reviewCount": 90000,
+          "badge": "budget_pick"
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BHK9K1RP",
-          "displayName": "LINENSPA All-Season Down Alternative Quilted Comforter",
+          "url": "https://www.amazon.com/Bedsure-Twin-Size-Dark-Light/dp/B07R77BTWR",
+          "displayName": "Bedsure Twin XL Comforter Set – 5-Piece Reversible Bed-in-a-Bag",
           "affiliateTag": "dormready-20",
           "priority": 2,
           "averageRating": 4.5,
-          "reviewCount": 340000,
-          "badge": "amazons_choice"
+          "reviewCount": 20000,
+          "badge": "dorm_bundle"
         },
         {
           "retailer": "walmart",
-          "url": "https://www.walmart.com/search?q=twin+xl+comforter+college+dorm",
-          "displayName": "Twin XL Comforters at Walmart",
+          "url": "https://www.walmart.com/search?q=twin+xl+comforter+set+dorm",
+          "displayName": "Twin XL Dorm Comforter Sets – Walmart Selection",
           "affiliateTag": "dormready",
           "priority": 3,
-          "averageRating": 4.2,
-          "reviewCount": 8500
+          "badge": "multiple_options"
         }
       ]
     },
@@ -75,31 +74,33 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BVLHJ7BK",
-          "displayName": "Beckham Hotel Collection Bed Pillows Queen Size Set of 2",
+          "url": "https://www.amazon.com/Pillows-for-Sleeping-2-Pack/dp/B01LYNW421",
+          "displayName": "Beckham Hotel Collection Bed Pillows – Standard/Queen, Set of 2",
           "affiliateTag": "dormready-20",
           "priority": 1,
-          "averageRating": 4.4,
-          "reviewCount": 310000,
-          "badge": "best_seller"
+          "averageRating": 4.5,
+          "reviewCount": 250000,
+          "badge": "amazon_no.1_best_seller"
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0CGX3KH25",
+          "url": "https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW",
           "displayName": "Coop Home Goods Original Adjustable Loft Pillow",
           "affiliateTag": "dormready-20",
           "priority": 2,
-          "averageRating": 4.4,
-          "reviewCount": 85000
+          "averageRating": 4.6,
+          "reviewCount": 50000,
+          "badge": "premium"
         },
         {
-          "retailer": "walmart",
-          "url": "https://www.walmart.com/search?q=bed+pillows+2+pack",
-          "displayName": "Bed Pillows at Walmart",
-          "affiliateTag": "dormready",
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Bedsure-Standard-Pillows-Set-Alternative/dp/B0DJRX99GD",
+          "displayName": "Bedsure Standard Pillows – Set of 2",
+          "affiliateTag": "dormready-20",
           "priority": 3,
-          "averageRating": 4.2,
-          "reviewCount": 5500
+          "averageRating": 4.5,
+          "reviewCount": 5000,
+          "badge": "budget_pick"
         }
       ]
     },
@@ -108,22 +109,23 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BHKNHQ1Z",
-          "displayName": "LINENSPA 3 Inch Gel Infused Memory Foam Twin XL Topper",
+          "url": "https://www.amazon.com/Linenspa-Mattress-Infused-CertiPUR-US-Certified/dp/B0C2H8224C",
+          "displayName": "Linenspa 3-Inch Gel Infused Memory Foam Mattress Topper (Twin XL)",
           "affiliateTag": "dormready-20",
           "priority": 1,
           "averageRating": 4.4,
-          "reviewCount": 165000,
-          "badge": "best_seller"
+          "reviewCount": 30000,
+          "badge": "popular"
         },
         {
-          "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BWVQGMYC",
-          "displayName": "Bedsure Twin XL Memory Foam Mattress Topper 3 Inch",
-          "affiliateTag": "dormready-20",
+          "retailer": "bedsure",
+          "url": "https://bedsurehome.com/products/thick-mattress-topper-pad-cover",
+          "displayName": "Bedsure Thick Mattress Topper Pad Cover",
+          "affiliateTag": "dormready",
           "priority": 2,
-          "averageRating": 4.3,
-          "reviewCount": 45000
+          "averageRating": 4.6,
+          "reviewCount": 2000,
+          "badge": "comfort"
         }
       ]
     },
@@ -132,22 +134,199 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BG9S77LT",
-          "displayName": "Bedsure Fleece Throw Blanket - Lightweight Super Soft",
+          "url": "https://www.amazon.com/Bedsure-Flannel-Fleece-Blanket-Throw/dp/B08BC2MSKW",
+          "displayName": "Bedsure Flannel Fleece Throw Blanket",
           "affiliateTag": "dormready-20",
           "priority": 1,
           "averageRating": 4.6,
-          "reviewCount": 185000,
-          "badge": "best_seller"
+          "reviewCount": 90000,
+          "badge": "budget_pick"
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BYZKH3YC",
-          "displayName": "L'AGRATY Chunky Knit Blanket Throw",
+          "url": "https://www.amazon.com/LAGRATY-Blanket-Chenille-50x60%EF%BC%8CHandmade-Crochet/dp/B0BR728TB6",
+          "displayName": "L'AGRATY Chunky Knit Chenille Throw Blanket",
           "affiliateTag": "dormready-20",
           "priority": 2,
           "averageRating": 4.5,
-          "reviewCount": 42000
+          "reviewCount": 1000,
+          "badge": "premium"
+        }
+      ]
+    },
+    "mattress-protector": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/SafeRest-Hypoallergenic-Waterproof-Mattress-Protector/dp/B003PWNGK6",
+          "displayName": "SafeRest Waterproof Mattress Protector – Twin XL",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.6,
+          "reviewCount": 200000,
+          "badge": "top_rated"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/AmazonBasics-Fully-Encased-Waterproof-Mattress-Protector/dp/B0755JMYT8",
+          "displayName": "Amazon Basics Fully Encased Waterproof Mattress Protector",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 15000,
+          "badge": "budget_pick"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Bedsure-Twin-Waterproof-Mattress-Pad/dp/B0CL4KKH57",
+          "displayName": "Bedsure Twin XL Waterproof Mattress Protector",
+          "affiliateTag": "dormready-20",
+          "priority": 3,
+          "averageRating": 4.5,
+          "reviewCount": 3000,
+          "badge": "comfort"
+        }
+      ]
+    },
+    "pillow-protectors": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/AllerEase-Waterproof-Pillow-Protector-Allergy/dp/B0BPYYHJZV",
+          "displayName": "AllerEase Waterproof Soft Top Pillow Protectors – 2 Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 1000,
+          "badge": "allergy_friendly"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Utopia-Bedding-Waterproof-Zippered-Encasement/dp/B088WX8WPX",
+          "displayName": "Utopia Bedding Waterproof Zippered Pillow Encasements – 4 Pack",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.5,
+          "reviewCount": 8000,
+          "badge": "value_pack"
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/AllerEase-Waterproof-Allergy-Protection-Zippered-Machine-Washable-Pillow-Protector-Standard-Queen-2-Pack/628567746",
+          "displayName": "AllerEase Waterproof Pillow Cover Protector – 2 Pack (Walmart)",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "averageRating": 4.4,
+          "reviewCount": 100,
+          "badge": "in_store"
+        }
+      ]
+    },
+    "body-pillow": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Utopia-Bedding-Ultra-Soft-Pillow/dp/B01FXROXFW",
+          "displayName": "Utopia Bedding Full Body Pillow – 20\" x 54\"",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 20000,
+          "badge": "budget_pick"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Coop-Home-Goods-Body-Pillow-Full-Long-Memory-Foam-Quiet-Noiseless-Silent-Cover/dp/B00OKY8BOY",
+          "displayName": "Coop Home Goods Original Adjustable Body Pillow",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.7,
+          "reviewCount": 7000,
+          "badge": "premium"
+        }
+      ]
+    },
+    "bed-risers": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/ANNKUT-Risers-Adjustable-Furniture-Extenders/dp/B0CDRMZXYC",
+          "displayName": "ANNKUT 8-Inch Heavy Duty Bed Risers (Set of 4)",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 1000,
+          "badge": "heavy_duty"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/TomGear-Risers-Heights-Stackable-Extenders/dp/B09TGQLNQB",
+          "displayName": "TomGear Bed Risers – 3, 5 or 8-Inch Adjustable (Set of 8)",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 1500,
+          "badge": "adjustable"
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/search?q=bed+risers+dorm",
+          "displayName": "Bed Risers for Dorms – Walmart Selection",
+          "affiliateTag": "dormready",
+          "priority": 3,
+          "badge": "multiple_options"
+        }
+      ]
+    },
+    "bedside-lamp": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Bedside-Lamp-USB-port-Nightstand/dp/B087CDBKCH",
+          "displayName": "Yarra-Decor 3-Way Dimmable Touch Bedside Lamp with USB Port",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 15000,
+          "badge": "popular"
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/c/kp/lamp-usb-port-outlet",
+          "displayName": "Bedside Lamps with USB Ports & Outlets – Walmart Selection",
+          "affiliateTag": "dormready",
+          "priority": 2,
+          "badge": "multiple_options"
+        }
+      ]
+    },
+    "bedside-caddy": {
+      "itemVersion": 1,
+      "links": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Loghot-Bedside-Storage-Organizer-Hospital/dp/B07QH4BN2Q",
+          "displayName": "Loghot Bedside Caddy Hanging Organizer",
+          "affiliateTag": "dormready-20",
+          "priority": 1,
+          "averageRating": 4.5,
+          "reviewCount": 3000,
+          "badge": "amazons_choice"
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Bseash-Hanging-Organizer-Bedside-Hospital/dp/B07F1BRL7T",
+          "displayName": "Bseash Bunk Bed Organizer / Bedside Caddy – 8 Pockets",
+          "affiliateTag": "dormready-20",
+          "priority": 2,
+          "averageRating": 4.4,
+          "reviewCount": 5000,
+          "badge": "large_capacity"
         }
       ]
     }

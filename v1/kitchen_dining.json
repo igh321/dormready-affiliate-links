@@ -1,29 +1,31 @@
 {
   "categoryId": "kitchen_dining",
   "version": 3,
-  "lastUpdated": "2025-11-21",
+  "lastUpdated": "2025-12-01",
   "items": {
     "microwave-dishes": {
       "itemVersion": 1,
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B08PVPTDJY",
-          "displayName": "Corelle 12-Piece Dinnerware Set Service for 4",
+          "url": "https://www.amazon.com/Corelle-Winter-Frst-Wht-12pc/dp/B09LVG5CHH",
+          "displayName": "Corelle 12-Piece Dinnerware Set (Winter Frost White, Service for 4)",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.7,
-          "reviewCount": 65000,
-          "badge": "best_seller"
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BZXLF7QR",
-          "displayName": "Youngever 18-Piece Plastic Kitchen Dinnerware Set",
+          "url": "https://www.amazon.com/Youngever-18-Piece-Plastic-Kitchen-Dinnerware/dp/B09FYNBH2P",
+          "displayName": "Youngever 18-Piece Plastic Kitchen Dinnerware Set (Plates, Bowls, Cups)",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.5,
-          "reviewCount": 18000
+          "priority": 2
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/Corelle-Country-Cottage-White-and-Green-Round-12-Piece-Dinnerware-Set/773171614",
+          "displayName": "Corelle 12-Piece Dinnerware Set (Country Cottage, Walmart)",
+          "affiliateTag": "dormready",
+          "priority": 3
         }
       ]
     },
@@ -32,22 +34,17 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B08F3BFHJJ",
-          "displayName": "Hydro Flask 32 oz Wide Mouth Water Bottle",
+          "url": "https://www.amazon.com/Hydro-Flask-Stainless-Reusable-Bottle/dp/B0BG6NK5T5",
+          "displayName": "Hydro Flask 32 oz Wide Mouth Water Bottle with Flex Straw Cap",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.8,
-          "reviewCount": 95000,
-          "badge": "best_seller"
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B09T5MGGWJ",
-          "displayName": "Stanley IceFlow Stainless Steel 30oz Tumbler",
+          "url": "https://www.amazon.com/Stanley-Resistant-Insulated-Stainless-BPA-Free/dp/B0DR9ML5X9",
+          "displayName": "Stanley IceFlow 2.0 Flip Straw Tumbler with Handle, 30 oz",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.6,
-          "reviewCount": 42000
+          "priority": 2
         }
       ]
     },
@@ -56,22 +53,17 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BSCP7MJ8",
+          "url": "https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2BHKC",
           "displayName": "Keurig K-Mini Single Serve Coffee Maker",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.5,
-          "reviewCount": 125000,
-          "badge": "amazons_choice"
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B09M6DM1J3",
-          "displayName": "Nespresso Vertuo Pop+ Coffee and Espresso Machine",
+          "url": "https://www.amazon.com/Nespresso-Vertuo-POP-Breville-White/dp/B0CS71J3GP",
+          "displayName": "Nespresso Vertuo Pop+ Coffee and Espresso Machine by Breville",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.5,
-          "reviewCount": 28000
+          "priority": 2
         }
       ]
     },
@@ -80,22 +72,24 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0BQKL2BQB",
-          "displayName": "Frigidaire 3.2 Cu Ft Retro Compact Refrigerator",
+          "url": "https://www.amazon.com/Frigidaire-Compact-Refrigerator-Built-Bottle/dp/B0DJTVG1NM",
+          "displayName": "Frigidaire 3.2 Cu. Ft. Retro Compact Refrigerator with Side Bottle Opener",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.4,
-          "reviewCount": 35000,
-          "badge": "best_seller"
+          "priority": 1
         },
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B0C5TKLQZW",
-          "displayName": "BLACK+DECKER 3.2 Cu Ft Mini Fridge with Freezer",
+          "url": "https://www.amazon.com/BLACK-DECKER-BCRK32B-Compact-Refrigerator/dp/B01DZQI6W4",
+          "displayName": "BLACK+DECKER 3.2 Cu. Ft. Compact Refrigerator (BCRK32B)",
           "affiliateTag": "dormready-20",
-          "priority": 2,
-          "averageRating": 4.3,
-          "reviewCount": 18000
+          "priority": 2
+        },
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/BLACK-DECKER-BCRK32B-Compact-Refrigerator-Mini-Fridge-with-Freezer-3-2-cu-ft-Black/136130064",
+          "displayName": "BLACK+DECKER BCRK32B Compact Refrigerator & Mini Fridge with Freezer (Walmart)",
+          "affiliateTag": "dormready",
+          "priority": 3
         }
       ]
     },
@@ -104,13 +98,17 @@
       "links": [
         {
           "retailer": "amazon",
-          "url": "https://www.amazon.com/dp/B07D4G4RH5",
-          "displayName": "LIANYU 20-Piece Stainless Steel Silverware Flatware Set",
+          "url": "https://www.amazon.com/AmazonBasics-20-Piece-Stainless-Flatware-Service/dp/B0736S3KJM",
+          "displayName": "Amazon Basics 20-Piece Stainless Steel Flatware Set (Service for 4)",
           "affiliateTag": "dormready-20",
-          "priority": 1,
-          "averageRating": 4.6,
-          "reviewCount": 85000,
-          "badge": "amazons_choice"
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/LIANYU-20-Piece-Silverware-Stainless-Dishwasher/dp/B06XK6PXX8",
+          "displayName": "LIANYU 20-Piece Stainless Steel Silverware Flatware Set (Service for 4)",
+          "affiliateTag": "dormready-20",
+          "priority": 2
         }
       ]
     }

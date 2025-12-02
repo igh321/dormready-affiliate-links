@@ -1,11 +1,24 @@
-{
-  "categoryId": "bath_personal_care",
-  "version": 3,
-  "lastUpdated": "2025-12-01",
-  "items": {
-    "shower-caddy": {
-      "itemVersion": 1,
-      "links": [
+"bath_personal_care": {
+  "displayName": "Bath & Personal Care",
+  "icon": "shower.fill",
+  "sortOrder": 2,
+  "items": [
+    {
+      "id": "shower-caddy",
+      "name": "Shower Caddy",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 15.0,
+        "CAD": 20.0,
+        "GBP": 12.0,
+        "EUR": 14.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["traditional"],
+      "searchKeywords": ["shower caddy", "shower tote", "bathroom caddy"],
+      "tips": "Essential for traditional dorms with shared bathrooms. Get one with drainage holes.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Attmu-Portable-Organizer-Conditioner-Accessories/dp/B07177XJK7",
@@ -27,9 +40,22 @@
         }
       ]
     },
-    "bath-towels": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "bath-towels",
+      "name": "Bath Towels",
+      "defaultQuantity": 3,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 35.0,
+        "CAD": 45.0,
+        "GBP": 28.0,
+        "EUR": 32.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["towels", "bath towels", "shower towels"],
+      "tips": "Bring at least 3 for rotation. Quick-dry or antimicrobial options are great for dorms.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/Utopia-Towels-Ring-Spun-Softness-Absorbent/dp/B01N6IW11E",
@@ -60,9 +86,22 @@
         }
       ]
     },
-    "shower-shoes": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "shower-shoes",
+      "name": "Shower Shoes/Flip Flops",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": 15.0,
+        "CAD": 20.0,
+        "GBP": 12.0,
+        "EUR": 14.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["traditional"],
+      "searchKeywords": ["shower shoes", "flip flops", "sandals", "slides"],
+      "tips": "Absolutely essential for shared bathrooms. Get non-slip, quick-drying material.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/adidas-Unisex-Adult-Adilette-Shower-Sandal/dp/B0FMHJFQWQ",
@@ -84,9 +123,22 @@
         }
       ]
     },
-    "toiletry-bag": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "toiletry-bag",
+      "name": "Toiletry Bag",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": 20.0,
+        "CAD": 26.0,
+        "GBP": 16.0,
+        "EUR": 18.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": ["toiletry bag", "dopp kit", "bathroom bag"],
+      "tips": "Keep your personal items organized. Hanging styles save counter space.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/BAGSMART-Organizer-Transparent-Toiletries-Large-Black/dp/B08SWCGQDD",
@@ -108,9 +160,22 @@
         }
       ]
     },
-    "robe": {
-      "itemVersion": 1,
-      "links": [
+    {
+      "id": "robe",
+      "name": "Bathrobe",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": 35.0,
+        "CAD": 45.0,
+        "GBP": 28.0,
+        "EUR": 32.0
+      },
+      "climates": ["all"],
+      "dormTypes": ["traditional"],
+      "searchKeywords": ["bathrobe", "robe", "dressing gown"],
+      "tips": "Convenient for walking to/from shared bathrooms. Choose lightweight, quick-dry fabric.",
+      "affiliateLinks": [
         {
           "retailer": "amazon",
           "url": "https://www.amazon.com/dp/B075SDD6KF",
@@ -123,5 +188,5 @@
         }
       ]
     }
-  }
+  ]
 }

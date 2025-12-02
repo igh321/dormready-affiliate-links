@@ -1,0 +1,303 @@
+"health_safety": {
+  "displayName": "Health & Safety",
+  "icon": "cross.case.fill",
+  "sortOrder": 8,
+  "items": [
+    {
+      "id": "first-aid-kit",
+      "name": "First Aid Kit (College/Dorm)",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": {
+          "min": 25,
+          "max": 50
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "college first aid kit",
+        "dorm first aid kit",
+        "emergency medical kit",
+        "basic first aid supplies"
+      ],
+      "tips": "A compact first aid kit should include bandages, antiseptic wipes, gauze, tape, and basic supplies. For any medications or treatments, always follow the package directions and consult a healthcare professional when needed.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/DormDoc-2-0-Piece-First-Students/dp/B01E53NB9O",
+          "displayName": "DormDoc College First Aid Kit – 175-Piece Medical Kit for Students",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/first-aid-kit/s?k=first+aid+kit",
+          "displayName": "All-Purpose First Aid Kits – Amazon Search (Includes First Aid Only 299-Piece and Similar Sets)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "disinfecting-wipes",
+      "name": "Disinfecting Wipes",
+      "defaultQuantity": 2,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 10,
+          "max": 20
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "disinfecting wipes",
+        "Clorox wipes",
+        "Lysol wipes",
+        "Amazon Basics disinfecting wipes"
+      ],
+      "tips": "Perfect for wiping down desks, doorknobs, remotes, and shared surfaces. Check labels for which surfaces they’re safe on.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Clorox-Disinfecting-Bleach-Cleaning-Packaging/dp/B0CKGBWW8D",
+          "displayName": "Clorox Disinfecting Wipes Value Pack, Bleach Free, 75 Count Each (Pack of 2)",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Amazon-Brand-Solimo-Disinfecting-Wipes/dp/B07F246YG1",
+          "displayName": "Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, 255 Wipes (3 x 85-Count Canisters)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "hand-sanitizer",
+      "name": "Hand Sanitizer (Pump Bottle)",
+      "defaultQuantity": 2,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": {
+          "min": 10,
+          "max": 25
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "hand sanitizer pump",
+        "Purell pump bottle",
+        "alcohol hand sanitizer",
+        "desk hand sanitizer"
+      ],
+      "tips": "Keep one pump at your desk and one near the door. Use when soap and water aren’t available. Always follow the product label instructions.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/GOJO-PURELL-Instant-Sanitizer-Vitamin/dp/B007ZH3IFK",
+          "displayName": "PURELL Advanced Instant Hand Sanitizer, 12 oz Pump Bottle",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Advanced-Sanitizer-Refreshing-Bottle-Bottles/dp/B084GF729T",
+          "displayName": "PURELL Advanced Hand Sanitizer Refreshing Gel, 8 oz Pump Bottles, Pack of 4",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "facial-tissues",
+      "name": "Boxed Facial Tissues",
+      "defaultQuantity": 2,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 10,
+          "max": 25
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "facial tissues",
+        "Kleenex tissues",
+        "tissue box 8 pack",
+        "soft tissues"
+      ],
+      "tips": "Keep at least one box on your desk and one by your bed for allergy season and colds. Buying multi-packs is usually cheaper.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Kleenex-Trusted-Facial-Tissues-Packaging/dp/B0CTD2XLX5",
+          "displayName": "Kleenex Trusted Care Facial Tissues, 8 Flat Boxes, 2-Ply, 200 Tissues Per Box",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Price-Value-Premium-Facial-Tissues/dp/B0C349DZ4J",
+          "displayName": "Price Value Premium Facial Tissues, 8 Boxes, 230 Tissues Per Box",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "digital-thermometer",
+      "name": "Digital Thermometer",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 12,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "digital thermometer",
+        "oral thermometer",
+        "forehead thermometer",
+        "thermometer for adults"
+      ],
+      "tips": "A basic digital thermometer is helpful for deciding when to rest, mask, or contact student health. Follow the instructions and contact a healthcare professional if you’re concerned about your symptoms.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Best-Sellers-Health-Care-Thermometers/zgbs/hpc/3764261",
+          "displayName": "Amazon Best Sellers – Health Care Thermometers (Top-Rated Options)",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/digital-thermometer/s?k=digital+thermometer",
+          "displayName": "Digital Thermometers – Amazon Search (Oral & Forehead Styles)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "multi-surface-cleaner",
+      "name": "Multi-Surface Cleaner Spray + Cloth",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 10,
+          "max": 25
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "all purpose cleaner",
+        "multi surface cleaner spray",
+        "dorm cleaning spray",
+        "apartment cleaner"
+      ],
+      "tips": "Use with a reusable cloth for desks, shelves, and doorknobs. Check labels to ensure it’s safe for your furniture finish.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Multipurpose-Countertops-Appliances-Upholstery-Multi-surface/dp/B001KYVNOW",
+          "displayName": "Better Life All-Purpose Cleaner – Multipurpose Home & Surface Spray",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/all-purpose-cleaners/b?ie=UTF8&node=15356141",
+          "displayName": "All-Purpose Household Cleaners – Amazon Category (Includes Lysol, Method, Mrs. Meyer’s)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "face-masks",
+      "name": "Face Masks (Disposable or KN95)",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 15,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "disposable face mask 50 pack",
+        "KN95 masks",
+        "medical face masks",
+        "college masks"
+      ],
+      "tips": "Useful during cold/flu season, if you’re sick but still need to be around others, or if your campus has specific health guidelines. Always follow your school’s and local health authority recommendations.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Disposable-Medical-Masks-Breathable-Protection/dp/B0993DM7BW",
+          "displayName": "DR.MOXA 50 Pack Disposable Face Masks, Medical Grade 3-Ply (Blue)",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Boncare-KN95-Disposable-Breathable-Comfortable/dp/B08V4TJGRQ",
+          "displayName": "Boncare KN95 Face Masks 50 Pack, 5-Layer Disposable Masks (Black)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "personal-safety-alarm",
+      "name": "Personal Safety Alarm/Whistle",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 15,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "personal safety alarm",
+        "self defense keychain alarm",
+        "emergency whistle keychain",
+        "college safety alarm"
+      ],
+      "tips": "Attach to your keychain or backpack. A loud siren and light can help draw attention in an emergency. Always follow campus safety guidelines and local laws.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Personal-Alarm-Keychain-Women-Safety/dp/B085DKKPZS",
+          "displayName": "Weten Personal Safety Alarm Keychain – 130dB Siren with LED Light",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/personal-safety-alarm/s?k=personal+safety+alarm&page=2",
+          "displayName": "Personal Safety Alarm Options – Amazon Search (Multiple Brands & Colors)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}

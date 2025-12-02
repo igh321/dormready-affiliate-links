@@ -1,0 +1,310 @@
+"other_essentials": {
+  "displayName": "Other Essentials",
+  "icon": "shippingbox.fill",
+  "sortOrder": 9,
+  "items": [
+    {
+      "id": "small-tool-kit",
+      "name": "Small Tool Kit",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 20,
+          "max": 40
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "dorm tool kit",
+        "household tool set",
+        "basic tool kit",
+        "college repair kit"
+      ],
+      "tips": "Handy for assembling furniture, hanging decor, and minor fixes. Look for a compact kit with a hammer, screwdrivers, tape measure, and hex keys.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/40-Piece-Household-Tools-Kit-Students/dp/B0885TS648",
+          "displayName": "39-Piece Household Tools Kit – Small Basic Home Tool Set with Plastic Toolbox (Dorm/Apartment)",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/dorm-room-tool-kit/s?k=dorm+room+tool+kit",
+          "displayName": "Dorm Room Tool Kits – Amazon Search (Multiple Compact Sets)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "reusable-shopping-bags",
+      "name": "Reusable Shopping Bags",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 15,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "reusable grocery bags",
+        "foldable shopping bags",
+        "tote bags for groceries",
+        "eco friendly shopping bags"
+      ],
+      "tips": "Great for grocery runs and laundry supplies. Foldable sets are easy to stash in a backpack or by the door.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Reusable-Grocery-Bags-Foldable-Machine-Washable-Reusable-Shopping-Bags-Bulk-Colorful-Reusable-Lightweight-Polyester/dp/B07XFLT4TS",
+          "displayName": "BeeGreen 10-Pack Reusable Grocery Bags – Foldable, Machine Washable, Lightweight",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Best-Sellers-Kitchen-Reusable-Grocery-Bags/zgbs/kitchen/1252210011",
+          "displayName": "Best Sellers – Reusable Grocery Bags (Multiple High-Rated Options)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "compact-umbrella",
+      "name": "Compact Travel Umbrella",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 17,
+          "max": 35
+        }
+      },
+      "climates": ["rainy", "moderate", "cold"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "compact umbrella",
+        "windproof travel umbrella",
+        "folding umbrella",
+        "small umbrella for backpack"
+      ],
+      "tips": "A sturdy, windproof travel umbrella is worth it if your campus gets rain or snow. Look for automatic open/close and a slipcover to keep your backpack dry.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/REPEL-Windproof-Travel-Umbrella-Withstands/dp/B0F9HWMVVP",
+          "displayName": "REPEL Windproof Travel Umbrella – Compact Auto-Folding, Withstands High Winds",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/windproof-travel-umbrella/s?k=windproof+travel+umbrella",
+          "displayName": "Windproof Travel Umbrellas – Amazon Search (Multiple Compact Options)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "heavy-winter-coat",
+      "name": "Heavy Winter Coat (Cold Climates)",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": {
+          "min": 90,
+          "max": 200
+        }
+      },
+      "climates": ["cold"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "winter parka",
+        "insulated jacket",
+        "waterproof winter coat",
+        "cold weather parka"
+      ],
+      "tips": "For cold or snowy campuses, invest in a waterproof, insulated coat with a hood. You’ll wear it every day walking between classes.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/TACVASEN-Outdoor-Waterproof-Windproof-Snowboard/dp/B07YKCLC2D",
+          "displayName": "TACVASEN Men's Winter Skiing Jacket – Waterproof, Fleece-Lined, Insulated Parka",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/IKAZZ-Womens-Winter-Thickened-Insulated/dp/B0BKGFHJGN",
+          "displayName": "IKAZZ Women’s Winter Coat – Thickened Warm Insulated Vegan Down Long Parka with Hood",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-sunscreen",
+      "name": "Everyday Sunscreen (Face & Body, SPF 30–50)",
+      "defaultQuantity": 1,
+      "priority": "essential",
+      "estimatedPrices": {
+        "USD": {
+          "min": 12,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "sunscreen SPF 50",
+        "daily sunscreen face",
+        "broad spectrum spf",
+        "sunscreen for college"
+      ],
+      "tips": "Use broad-spectrum SPF 30–50 on any exposed skin when you’ll be outside, even walking between classes. Always follow the product label and talk to a healthcare professional if you have skin concerns.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Derma-Everday-Sunscreen-Moisturizer-Sunblock/dp/B0B14VFZCR",
+          "displayName": "Derma B Everyday Sun Block – Lightweight SPF Moisturizer for Face & Body",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Best-Sellers-Sunscreens/zgbs/beauty/15239990011",
+          "displayName": "Best Sellers – Sunscreens on Amazon (Top-Rated SPF Options)",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "sunglasses",
+      "name": "Polarized Sunglasses",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 20,
+          "max": 60
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "polarized sunglasses",
+        "unisex sunglasses",
+        "classic sunglasses",
+        "uv protection glasses"
+      ],
+      "tips": "Polarized lenses reduce glare walking across campus or studying outside. Look for 100% UVA/UVB protection.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/WearMe-Pro-Classic-Polarized-Sunglasses/dp/B082LQ1LKJ",
+          "displayName": "WearMe Pro Classic Polarized Sunglasses – Unisex Retro Square Style",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Polarspex-Polarized-Lightweight-Flexible-Sunglasses/dp/B08G8BBQ2B",
+          "displayName": "Polarspex Classic Unisex Polarized Sunglasses – Ultra Lightweight",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "id-lanyard",
+      "name": "ID Lanyard / Badge Holder",
+      "defaultQuantity": 1,
+      "priority": "recommended",
+      "estimatedPrices": {
+        "USD": {
+          "min": 10,
+          "max": 30
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "student id lanyard",
+        "id badge holder",
+        "lanyard wallet",
+        "college id holder"
+      ],
+      "tips": "Most campuses use a student ID for doors, dining halls, and printing. A lanyard or ID wallet keeps it handy and harder to lose.",
+      "affiliateLinks": [
+        {
+          "retailer": "walmart",
+          "url": "https://www.walmart.com/ip/3-Pack-Clear-ID-Badge-Holder-with-Lanyard-Black-Lanyards-with-Vertical-Waterproof-ID-Badge-Holder-for-Office-School-Travel/17020061055",
+          "displayName": "3-Pack Clear ID Badge Holder with Black Lanyards – Waterproof Vertical Holders",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/MONDO-DESIGNS-Holder-Lanyard-Wallet/dp/B0C3Z5VZJ7",
+          "displayName": "MONDO DESIGNS 2-in-1 ID Badge Holder & Lanyard Wallet – Small Wallet + Lanyard",
+          "affiliateTag": null,
+          "priority": 2
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/bolimoss-Lanyard-Florals-Detachable-Watercolor/dp/B0F6W98C65",
+          "displayName": "bolimoss 2-in-1 ID Badge Holder & Lanyard Wallet – Cute Floral Leather Design",
+          "affiliateTag": null,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "weekend-duffel",
+      "name": "Weekend/Travel Duffel Bag (~40L)",
+      "defaultQuantity": 1,
+      "priority": "nice_to_have",
+      "estimatedPrices": {
+        "USD": {
+          "min": 30,
+          "max": 80
+        }
+      },
+      "climates": ["all"],
+      "dormTypes": ["all"],
+      "searchKeywords": [
+        "40L travel duffel bag",
+        "weekend bag carry on",
+        "overnight bag",
+        "college travel bag"
+      ],
+      "tips": "Perfect for weekends home, short trips, or overnight events. Look for a size that qualifies as a carry-on and has a separate shoe or wet pocket if you’ll use it for the gym too.",
+      "affiliateLinks": [
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/Dimayar-Travel-Duffle-Bag-Men/dp/B0DMDJ184P",
+          "displayName": "Dimayar 40L Travel Duffle Bag – Foldable Overnight Bag with Shoe Compartment",
+          "affiliateTag": null,
+          "priority": 1
+        },
+        {
+          "retailer": "amazon",
+          "url": "https://www.amazon.com/BOEX-Stylish-Duffle-Bag-Travel/dp/B0DQK1MCRB",
+          "displayName": "BOEX 20–23\" Expandable Travel Duffle Bag (40L) – Water-Resistant Carry-On Weekender",
+          "affiliateTag": null,
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
